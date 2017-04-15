@@ -1,0 +1,12 @@
+TEACHER 10 (T10)
+Lecturer
+Office: Room 110
+Office hours:
+MW: 4:10pm-5:10pm,ST:11:00am-2:30pm.
+Phone: +000 0000 0000 Ext 1010
+Email: teacher10@campus.example
+Teaching:
+Electrical Circuits I
+Signals and Systems
+EEE 422/ETE 422 Principles of Digital Communications
+Digital Signal Processing

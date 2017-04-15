@@ -1,0 +1,11 @@
+TEACHER 42 (T42)
+Lecturer
+Office: Room 142
+Office hours:
+ST  9:40 am to 12:50 pm
+R- 11:20 am  to 1:30 pm
+Phone: +000 0000 0000 Ext 1042
+Email: teacher42@campus.example
+Teaching:
+Analog Electronics
+Analog Electronics Lab

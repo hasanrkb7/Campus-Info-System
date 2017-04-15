@@ -1,0 +1,46 @@
+01.Beef Shwarma
+    price-50
+02.Chicken Shwarma
+    price-50
+03.French Fries
+    price-25
+04.Chicken Pizza
+    price-45
+05.Beef Pizza
+    price-45
+06.Chicken Burger
+    price-40
+07.Chicken Jhal Fry
+    price-60
+08.Parata
+    price-10
+09.Dosa
+    price-55
+10.Doi Fuchka
+    price-50
+11.Chicken Sandwich
+    price-25
+12.Club Sandwich
+    price-35
+13.Chicken Saslik
+    price-30
+14.Chicken Roll
+    price-30
+15.Vegetable Roll
+    price-30
+16.Patties
+    price-25
+17.Chicken Samusa
+    price-10
+18.Egg Chop
+    price-10
+19.Fuchka
+    price-25
+20.Fried Chicken
+    price-35
+21.Soft Drinks
+    price-20
+22.Tea
+    price-10
+23.Faluda
+    price-40

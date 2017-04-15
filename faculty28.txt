@@ -1,0 +1,7 @@
+TEACHER 28 (T28)
+Professor
+Office: Room 128
+Teaching:
+Engineering Economics
+Signals and Systems
+

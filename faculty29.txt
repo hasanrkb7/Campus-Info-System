@@ -1,0 +1,15 @@
+TEACHER 29 (T29)
+Lecturer
+Office: Room 129
+Office hours:
+ST 10 am  12 pm
+M 01 pm  03 pm
+Phone: +000 0000 0000 Ext 1029
+Email: teacher29@campus.example
+Teaching:
+Analog Electronics II
+Electrical Circuits II
+Digital Logic Design
+Digital Logic Design Lab
+Electrical Circuits II Lab
+

@@ -1,0 +1,13 @@
+TEACHER 23 (T23)
+Lecturer
+Office: Room 123
+Office hours:
+Phone Extension: 1546
+Monday   02:20PM-04:20PM
+Wednesday 02:20PM-04:20PM
+Thursday   02:00PM-04:00PM
+Phone: +000 0000 0000 Ext 1023
+Email: teacher23@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab

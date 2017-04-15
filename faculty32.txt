@@ -1,0 +1,14 @@
+TEACHER 32 (T32)
+Senior Lecturer & Lab Coordinator
+Office: Room 132
+Phone: +000 0000 0000 Ext 1032
+Email: teacher32@campus.example
+Teaching:
+Electrical Circuits I
+Electrical Circuits II
+Analog Electronics
+Digital Logic Design
+Analog Electronics II
+Senior Design Project I
+Senior Design Project II
+

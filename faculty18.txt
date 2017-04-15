@@ -1,0 +1,11 @@
+TEACHER 18 (T18)
+Assistant Professor
+Office: Room 118
+Phone: +000 0000 0000 Ext 1018
+Email: teacher18@campus.example
+Teaching:
+Control Engineering
+Control Engineering Lab
+Programming Language I
+Programming Language I Lab
+Nonlinear Systems - Analysis, Stability and Control

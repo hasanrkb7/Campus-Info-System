@@ -1,0 +1,15 @@
+TEACHER 08 (T08)
+Lecturer
+Office: Room 108
+Phone: +000 0000 0000 Ext 1008
+Email: teacher08@campus.example
+Teaching:
+Analog Electronics
+Analog Electronics Lab
+Electrical Circuits I
+Electrical Circuits I Lab
+Power Systems
+Power Systems Lab
+Power Electronics
+Power Electronics Lab
+

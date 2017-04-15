@@ -1,0 +1,12 @@
+TEACHER 22 (T22)
+Senior Lecturer
+Office: Room 122
+Office hours:
+ST 09:40 AM  11:20 AM, 03:00 PM  05:00 PM
+MW 09:40 AM  11:20 AM, 03:00 PM  04:00 PM
+Phone: +000 0000 0000 Ext 1022
+Email: teacher22@campus.example
+Teaching:
+Discrete Mathematics
+Design and Analysis of Algorithms
+Data Communication & network

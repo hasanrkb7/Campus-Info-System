@@ -1,0 +1,13 @@
+TEACHER 27 (T27)
+Associate Professor
+Office: Room 127
+Phone: +000 0000 0000 Ext 1027
+Email: teacher27@campus.example
+Teaching:
+Programming Language I
+Programming Language II
+Digital Logic design
+Data Communication & network
+Compiler Constructions
+Cryptography
+Modeling and Simulation

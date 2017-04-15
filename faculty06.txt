@@ -1,0 +1,12 @@
+TEACHER 06 (T06)
+Assistant Professor
+Office: Room 106
+Office hours:
+Sun-Wed: 8:15-9:40 AM
+Sun+Wed:1:30  2:40 PM
+Email: teacher06@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab
+Design and Analysis of Algorithms
+Theory of Computation

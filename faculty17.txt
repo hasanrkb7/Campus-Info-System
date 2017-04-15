@@ -1,0 +1,23 @@
+TEACHER 17 (T17)
+Assistant Professor
+Office: Room 117
+Office hours:
+Monday: 9.30 PM  11.20 PM, 1.00PM-2.30 PM
+Wednesday: 9.30 PM  11.20 PM, 1.00PM-2.30 PM
+Phone: +000 0000 0000 Ext 1017
+Email: teacher17@campus.example
+Teaching:
+Analog Electronics
+Analog Electronics Lab
+Electrical Circuits I
+Electrical Circuits I Lab
+Digital Logic Design
+Digital Logic Design Lab
+Introduction to Communications Systems
+Introduction to Communications Systems Lab
+Radar Systems Analysis and Design
+Advanced Antenna Theory and Design
+RF & Microwave Engineering and Applications
+Senior Design Project I
+Senior Design Project I
+Senior Design Project I

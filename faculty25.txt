@@ -1,0 +1,14 @@
+TEACHER 25 (T25)
+Associate Professor
+Office: Room 125
+Office hours:
+Sunday: Â  11:20AM  5:00 PM
+Monday: Â 11:20AM  5:00 PM
+Tuesday: 11:20AM  5:00PM
+Wednesday & Thursday : By Appointment
+Phone: +000 0000 0000 Ext 1025
+Email: teacher25@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab
+Operating Systems Design

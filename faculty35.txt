@@ -1,0 +1,14 @@
+TEACHER 35 (T35)
+Assistant Professor
+Office: Room 135
+Office hours:
+S/M/T/W 8.30 AM  9.30 AM
+S/T 1:00 PM 2:00 PM
+Phone: +000 0000 0000 Ext 1035
+Email: teacher35@campus.example
+Teaching:
+Analog Electronics
+Analog Electronics Lab
+Power Electronics
+Power Electronics Lab
+Senior Design Project I

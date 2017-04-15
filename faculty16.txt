@@ -1,0 +1,11 @@
+TEACHER 16 (T16)
+Office: Room 116
+Phone: +000 0000 0000 Ext 1016
+Email: teacher16@campus.example
+Teaching:
+Electrical Circuits I
+Electrical Circuits I Lab
+Analog Electronics
+Analog Electronics Lab
+Analog Electronics II
+Electromagnetic Fields & Waves

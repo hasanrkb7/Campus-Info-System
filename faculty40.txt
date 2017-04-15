@@ -1,0 +1,9 @@
+TEACHER 40 (T40)
+Assistant Professor
+Office hours:
+1.00 PM  2.30 PM (S,T,M,W)
+Email: teacher40@campus.example
+Teaching:
+Digital Logic design
+Digital Logic design Lab
+Computer Organization and Architecture

@@ -1,0 +1,15 @@
+TEACHER 31 (T31)
+Associate Professor & Chair
+Office: Room 131
+Office hours:
+Sunday:8:30  9:30 am; 11:20 am -12:50 pm
+Monday:8:30  11:10 am
+Tuesday 8:30  9:30 am; 11:20 am  12:50 pm
+Wednesday 4:20-6:50 pm
+Teaching:
+Electrical Circuits II
+Semiconductor Devices and Technology
+Nanotechnology
+Senior Design Project I
+Solid State Electronics
+Microelectronics and VLSI Design

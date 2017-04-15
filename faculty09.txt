@@ -1,0 +1,5 @@
+TEACHER 09 (T09)
+Lecturer
+Office: Room 109
+Phone: +000 0000 0000 Ext 1009
+Email: teacher09@campus.example

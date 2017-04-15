@@ -1,0 +1,4 @@
+TEACHER 30 (T30)
+Office: Room 130
+Phone: +000 0000 0000 Ext 1030
+Email: teacher30@campus.example

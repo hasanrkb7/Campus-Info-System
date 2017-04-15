@@ -1,0 +1,36 @@
+01.Beef Shwarma
+    price-50
+02.Beef Pizza
+    price-60
+03.Chicken Cheese Ball
+    price-35
+04.Patties
+    price-20
+05.Chotpoti
+    price-40
+06.Chicken Cutlet
+    price-30
+07.New Mown
+    price-120
+08.Ventisea
+    price-75
+09.Chocolate Milk
+    price-45
+10.Cold Coffee
+    price-55
+11.Hot Coffee
+    price-55
+12.Peanut Krushers
+    price-120
+13.Strawberry Krushers
+    price-100
+14.ICED Coffee
+    price-45
+15.Cloudy Ocean
+    price-75
+16.Oreo Shake
+    price-70
+17.Milk Shake
+    price-60
+18.Icecream
+    price-60

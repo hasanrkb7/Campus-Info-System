@@ -1,0 +1,12 @@
+TEACHER 13 (T13)
+Senior Lecturer
+Office: Room 113
+Phone: +000 0000 0000 Ext 1013
+Email: teacher13@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab
+Data Structures and Algorithms
+Data Structures and Algorithms Lab
+Design and Analysis of Algorithms
+Digital Image Processing

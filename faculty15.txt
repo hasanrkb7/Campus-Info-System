@@ -1,0 +1,11 @@
+TEACHER 15 (T15)
+Lecturer
+Office: Room 115
+Office hours:
+Monday and Wednesday, 11:30 AM- 02:00 PM
+Tuesday, 03:00 PM- 04:00 PM
+Email: teacher15@campus.example
+Analog Electronics
+Analog Electronics Lab
+Electromagnetic Fields & Waves
+Special Topics

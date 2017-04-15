@@ -1,0 +1,26 @@
+01.Mixed Vegetables
+    price-35
+02.Chicken Corn Soup
+    price-35
+03.Thai Soup
+    price-35
+04.Egg Noodles
+    price-50
+05.Wonthon
+    price-15
+06.Prawn Ball
+    price-45
+07.Chicken Fried Rice
+    price-35
+08.Egg
+    price-55
+09.Chicken Chili
+    price-50
+10.Chicken Spring Roll
+    price-25
+11.Soft Drinks
+    price-20
+12.Fresh Juice
+    price-50
+13.Mineral Water
+    price-15

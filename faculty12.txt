@@ -1,0 +1,15 @@
+TEACHER 12 (T12)
+Office: Room 112
+Office hours:
+Monday, Wednesday and Thursday: 09:00 AM  10:30 AM
+Monday and Wednesday: 01:30 PM  2:30 PM
+Thursday: 03:00 PM  4:30 PM
+Phone: +000 0000 0000 Ext 1012
+Email: teacher12@campus.example
+Teaching:
+Signals and Systems
+Data Communications & Networks
+Power Systems
+Advanced Computer Networks and Communications
+Network Security
+Stochastic Signals and Systems

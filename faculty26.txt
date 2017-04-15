@@ -1,0 +1,13 @@
+TEACHER 26 (T26)
+Senior Lecturer
+Office: Room 126
+Office hours:
+Sunday: 10:00am  01:00pm
+Tuesday: 10:00am  01:00pm
+Phone: +000 0000 0000 Ext 1026
+Email: teacher26@campus.example
+Teaching:
+Electromagnetic Fields & Waves
+Electrical Circuits I
+Electrical Circuits I Lab
+Senior Design Project II

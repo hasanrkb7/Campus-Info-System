@@ -1,0 +1,21 @@
+TEACHER 24 (T24)
+Assistant Professor
+Office: Room 124
+Fall 2016  office hours:
+Sunday: 9:00 am-12:00 pm
+Tuesday: 9:00 am-12:00 pm
+Wednesday: 9:00 am-12:00 pm
+Thursday: 9:00 am-10:00 am, 3:00 pm-5:00 pm
+Saturday: 11:00 am-2:00 pm
+Phone: +000 0000 0000 Ext 1024
+Email: teacher24@campus.example
+Teaching:
+Analog Electronics
+Analog Electronics Lab
+Electrical Circuits I
+Electrical Circuits I Lab
+Electrical Circuits II
+Electrical Circuits II Lab
+Internship/Co-op
+High Voltage Engineering
+Semiconductors and Devices

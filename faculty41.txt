@@ -1,0 +1,8 @@
+TEACHER 41 (T41)
+Senior Lecturer
+Office: Room 141
+Phone: +000 0000 0000 Ext 1041
+Email: teacher41@campus.example
+Teaching:
+Programming Language II
+Programming Language II Lab

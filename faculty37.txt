@@ -1,0 +1,16 @@
+TEACHER 37 (T37)
+Associate Professor
+Office: Room 137
+Office hours:
+ST 9:40  11:10 AM, MW 9:00  12:00 PM
+Phone: +000 0000 0000 Ext 1037
+Email: teacher37@campus.example
+Teaching:
+Programming Language I
+Software Engineering
+Microprocessor Interfacing & Embedded System
+Software Quality Assurances & Testing
+Internet and Web Technology
+Introductions to Bioinformatics
+Advanced Artificial Intelligence
+Special Topic

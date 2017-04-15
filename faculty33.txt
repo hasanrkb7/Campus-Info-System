@@ -1,0 +1,5 @@
+TEACHER 33 (T33)
+Lecturer
+Office: Room 133
+Phone: +000 0000 0000 Ext 1033
+Email: teacher33@campus.example

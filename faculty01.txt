@@ -1,0 +1,10 @@
+TEACHER 01 (T01)
+Lecturer
+Office: Room 101
+Email: teacher01@campus.example
+Teaching:
+Discrete Mathematics
+Programming Language II
+Data Structures and Algorithms
+Software Engineering
+Theory of Computation

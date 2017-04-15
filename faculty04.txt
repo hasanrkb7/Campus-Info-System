@@ -1,0 +1,14 @@
+TEACHER 04 (T04)
+Office: Room 104
+Office hours:
+Sunday :8:30 AM- 9:30 AM,  1:30 PM- 3:30 PM
+Tuesday :8:30 AM- 9:30 AM
+Wednesday :1:30 PM- 3:30 PM
+Thursday :11:30 AM- 1:00 PM
+Phone: +000 0000 0000 Ext 1004
+Email: teacher04@campus.example
+Teaching:
+Digital Logic design
+Mobile and Wireless Communication System
+ETE 423/EEE 423 Principles of Telecommunication Network
+Fiber-Optic Communications System

@@ -1,0 +1,37 @@
+TEACHER 11 (T11)
+Office: Room 111
+Office hours:
+Sunday: 9:40 AM  11:10 AM
+Monday: 1:00 PM  2:30 PM
+Tuesday: 9:40 AM  2:30 PM
+Wednesday: 1:00 PM  2:30 PM
+Phone: +000 0000 0000 Ext 1011
+Email: teacher11@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab
+Digital Logic design
+Digital Logic design Lab
+Verilog HDL: Modelling, Simulation and synthesis
+Introduction to VLSI Design
+Internship/Co-op/Directed Research
+Senior Design Project I
+Senior Design Project II
+Analog Electronics
+Analog Electronics Lab
+Electrical Circuits I
+Electrical Circuits I Lab
+Digital Logic Design
+Digital Logic Design Lab
+Introduction to VLSI Design
+Verilog HDL: Modeling, Simulation and Synthesis
+CMOS Analog Circuit Design
+Internship/Co-op
+Internship /Co-op/ Directed Research
+Senior Design Project I
+Senior Design Project II
+Senior Design Project I
+Senior Design Project II
+Semiconductors and Devices
+Microelectronics and VLSI Design
+Graduate Thesis

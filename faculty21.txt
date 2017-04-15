@@ -1,0 +1,13 @@
+TEACHER 21 (T21)
+Senior Lecturer
+Office: Room 121
+Office hours:
+Sunday:02:40 p.m. ~ 06:00 p.m.
+Monday:02:40 p.m. ~ 06:00 p.m.
+Phone: +000 0000 0000 Ext 1021
+Email: teacher21@campus.example
+Teaching:
+Analog Electronics II
+Signals and Systems
+Electrical Circuits II
+Electrical Circuits I

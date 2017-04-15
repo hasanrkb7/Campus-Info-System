@@ -1,0 +1,10 @@
+TEACHER 05 (T05)
+Associate Professor
+Office: Room 105
+Phone: +000 0000 0000 Ext 1005
+Email: teacher05@campus.example
+Teaching:
+Introduction to Communications Systems
+Introduction to Communications Systems Lab
+Electrical Machines
+Electrical Machines Lab

@@ -1,0 +1,9 @@
+TEACHER 03 (T03)
+Lecturer
+Office: Room 103
+Phone: +000 0000 0000 Ext 1003
+Email: teacher03@campus.example
+Teaching:
+Discrete Mathematics
+Programming Language II
+Programming Language II Lab

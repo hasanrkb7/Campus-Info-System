@@ -1,0 +1,11 @@
+TEACHER 20 (T20)
+Lecturer
+Office: Room 120
+Office hours:
+Sunday & Tuesday :11:50 a.m. ~ 12:50 p.m & 03:15 p.m. ~ 04:15 p.m.
+Monday & Wednesday :11:50 a.m. ~ 12:50 p.m.
+Phone: +000 0000 0000 Ext 1020
+Email: teacher20@campus.example
+Teaching:
+Electrical Circuits I
+Control Engineering

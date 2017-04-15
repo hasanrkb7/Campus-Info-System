@@ -1,0 +1,13 @@
+TEACHER 39 (T39)
+Lecturer
+Office: Room 139
+Email: teacher39@campus.example
+Teaching:
+Database Systems
+Digital Logic Design
+Digital Logic Design Lab
+Data Communication & network
+Computer Organization and Architecture
+Digital Logic design
+Digital Logic design Lab
+ 

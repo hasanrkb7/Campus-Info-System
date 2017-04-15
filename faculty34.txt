@@ -1,0 +1,7 @@
+TEACHER 34 (T34)
+Senior Lecturer
+Office: Room 134
+Phone: +000 0000 0000 Ext 1034
+Email: teacher34@campus.example
+Teaching:
+Discrete Mathematics

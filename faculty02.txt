@@ -1,0 +1,13 @@
+TEACHER 02 (T02)
+Lecturer
+Office: Room 102
+Office hours:
+MTW 10:00am  11:15am
+S 10:00am  2:15pm
+Phone: +000 0000 0000 Ext 1002
+Email: teacher02@campus.example
+Teaching:
+Electrical Circuits I
+Electrical Circuits I Lab
+Electrical Circuits II
+Electrical Circuits II Lab

@@ -1,0 +1,10 @@
+TEACHER 19 (T19)
+Assistant Professor
+Office: Room 119
+Phone: +000 0000 0000 Ext 1019
+Email: teacher19@campus.example
+Teaching:
+Electromagnetic Fields & Waves
+Senior Design Project I
+Analog Electronics
+

@@ -1,0 +1,18 @@
+TEACHER 36 (T36)
+Senior Lecturer
+Office: Room 136
+Office hours:
+Sunday: 1:00 PM  2:30 PM
+Monday: 9:30 AM  11:00 PM
+Tuesday: 1:00 PM  2:30 PM
+Wednesday: 9:30 AM  11:00 PM
+Phone: +000 0000 0000 Ext 1036
+Email: teacher36@campus.example
+Teaching:
+Programming Language I
+Programming Language I Lab
+Discrete Mathematics
+Data Structures and Algorithms
+Data Structures and Algorithms Lab
+Programming Language II
+Programming Language II Lab
